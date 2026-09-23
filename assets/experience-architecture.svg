@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 650" role="img" aria-labelledby="title desc">
+  <title id="title">OSH-Med and E.M.A. unified experience architecture</title>
+  <desc id="desc">One platform routes people to emergency response, professional services and community support while preserving the identities of both organisations.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#071521"/><stop offset="1" stop-color="#0b2a3e"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-opacity=".25"/></filter>
+  </defs>
+  <rect width="1400" height="650" rx="32" fill="url(#bg)"/>
+  <g fill="none" stroke="#425d6d" stroke-width="3"><path d="M700 215v75M700 290H250v75M700 290v75M700 290h450v75"/></g>
+  <g filter="url(#shadow)">
+    <rect x="450" y="55" width="500" height="160" rx="12" fill="#f8d94e"/>
+    <text x="700" y="122" text-anchor="middle" fill="#071521" font-family="Arial" font-size="23" font-weight="700" letter-spacing="3">ONE TRUSTED FRONT DOOR</text>
+    <text x="700" y="164" text-anchor="middle" fill="#071521" font-family="Arial" font-size="42" font-weight="800">Safety → Rescue</text>
+    <rect x="60" y="365" width="380" height="205" rx="12" fill="#e3463e"/>
+    <text x="105" y="420" fill="white" font-family="Arial" font-size="18" font-weight="700" letter-spacing="3">EMERGENCY</text>
+    <text x="105" y="478" fill="white" font-family="Arial" font-size="46" font-weight="800">Call 9112</text>
+    <text x="105" y="523" fill="#ffd6d1" font-family="Arial" font-size="20">Call · locate · follow guidance</text>
+    <rect x="510" y="365" width="380" height="205" rx="12" fill="#0079bd"/>
+    <text x="555" y="420" fill="white" font-family="Arial" font-size="18" font-weight="700" letter-spacing="3">PROFESSIONAL</text>
+    <text x="555" y="478" fill="white" font-family="Arial" font-size="42" font-weight="800">OSH-Med</text>
+    <text x="555" y="523" fill="#caecff" font-family="Arial" font-size="20">Train · comply · equip · cover</text>
+    <rect x="960" y="365" width="380" height="205" rx="12" fill="#f8d94e"/>
+    <text x="1005" y="420" fill="#071521" font-family="Arial" font-size="18" font-weight="700" letter-spacing="3">COMMUNITY</text>
+    <text x="1005" y="478" fill="#071521" font-family="Arial" font-size="42" font-weight="800">E.M.A.</text>
+    <text x="1005" y="523" fill="#5f5518" font-family="Arial" font-size="20">Understand · use · support</text>
+  </g>
+  <g fill="#f8d94e"><circle cx="700" cy="290" r="9"/><circle cx="250" cy="290" r="6"/><circle cx="1150" cy="290" r="6"/></g>
+</svg>
