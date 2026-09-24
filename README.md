@@ -1,7 +1,16 @@
-# OSH-Med + E.M.A. Namibia — Safety to Rescue
+# OSH-Med + E.M.A. Namibia — Archived Concept
 
-[![Live experience](https://img.shields.io/badge/LIVE_EXPERIENCE-Open-FFD84D?style=for-the-badge&labelColor=071521)](https://oshmed-ema-namibia.pages.dev/)
-[![Cloudflare Pages](https://img.shields.io/badge/CLOUDFLARE-Pages-F38020?style=for-the-badge&labelColor=071521)](https://oshmed-ema-namibia.pages.dev/)
+> [!IMPORTANT]
+> **This unified concept is archived.** E.M.A. Namibia and OSH-Med International are separate organisations with independent live experiences and case studies. The work below is preserved as the historical design record.
+
+| Organisation | Live experience | Current public case study |
+| --- | --- | --- |
+| **E.M.A. Namibia** — nonprofit emergency care | [ema-namibia.pages.dev](https://ema-namibia.pages.dev/) | [ema-namibia-case-study](https://github.com/freeman-ipumbu/ema-namibia-case-study) |
+| **OSH-Med International** — training academy | [osh-med-international.pages.dev](https://osh-med-international.pages.dev/) | [osh-med-international-case-study](https://github.com/freeman-ipumbu/osh-med-international-case-study) |
+
+The former combined URL is retained as a navigation gateway: [oshmed-ema-namibia.pages.dev](https://oshmed-ema-namibia.pages.dev/).
+
+[![Archive gateway](https://img.shields.io/badge/ARCHIVE_GATEWAY-Open-FFD84D?style=for-the-badge&labelColor=071521)](https://oshmed-ema-namibia.pages.dev/)
 
 ![OSH-Med and E.M.A. Namibia unified digital experience](assets/case-study-cover.png)
 
